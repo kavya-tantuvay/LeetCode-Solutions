@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 <!---LeetCode Topics End-->
