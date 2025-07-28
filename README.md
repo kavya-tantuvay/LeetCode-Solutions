@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
