@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Number Theory
 |  |
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
