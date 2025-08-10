@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Number Theory
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
