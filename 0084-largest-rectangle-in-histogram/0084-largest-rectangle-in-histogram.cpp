@@ -27,14 +27,30 @@ public:
         return pse;
     }
     int largestRectangleArea(vector<int>& heights) {
-        vector<int>nse,pse;
-        nse=findnse(heights);
-        pse=findpse(heights);
         int maxi=0;
-        for(int i=0;i<heights.size();i++){
-            int area=heights[i]*(nse[i]-pse[i]-1);
+        stack<int>st;
+        int nse,pse;
+        int n=heights.size();
+        for(int i=0;i<n;i++){
+            while(!st.empty() && heights[st.top()]>=heights[i]){
+                int element=st.top();
+                st.pop();
+                nse=i;
+                pse=st.empty()?-1:st.top();
+                int area=heights[element]*(nse-pse-1);
+                maxi=max(maxi,area);
+            }
+            st.push(i);
+        }
+        while(!st.empty()){
+            nse=n;
+            int element=st.top();
+            st.pop();
+            pse=st.empty()?-1:st.top();
+            int area=heights[element]*(nse-pse-1);
             maxi=max(maxi,area);
         }
+
         return maxi;
     }
 };
