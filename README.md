@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Matrix
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
