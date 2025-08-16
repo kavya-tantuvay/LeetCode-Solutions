@@ -4,21 +4,11 @@ public:
         int maxi=num;
         string s=to_string(num);
         for(int i=0;i<s.size();i++){
-            maxi=max(maxi,stoi(s));
-            if(s[i]=='9'){
-                s[i]='6';
-            }
-            else{
-                s[i]='9';
-            }
-            maxi=max(maxi,stoi(s));
-            if(s[i]=='9'){
-                s[i]='6';
-            }
-            else{
-                s[i]='9';
-            }
+           if(s[i]=='6'){
+            s[i]='9';
+            break;
+           }
         }
-        return maxi;
+        return max(maxi,stoi(s));
     }
 };
