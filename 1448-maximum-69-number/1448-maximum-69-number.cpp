@@ -1,14 +1,11 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        int maxi=num;
-        string s=to_string(num);
-        for(int i=0;i<s.size();i++){
-           if(s[i]=='6'){
-            s[i]='9';
-            break;
-           }
+        for (int p = 1000; p > 0; p /= 10) {
+            if ((num / p) % 10 == 6) {
+                return num + 3 * p;
+            }
         }
-        return max(maxi,stoi(s));
+        return num;
     }
 };
