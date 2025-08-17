@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
