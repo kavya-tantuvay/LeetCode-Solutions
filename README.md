@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Matrix
 |  |
