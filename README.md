@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
