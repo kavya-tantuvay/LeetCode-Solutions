@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
