@@ -16,9 +16,7 @@ public:
     long long minOperations(vector<vector<int>>& queries) {
         long long ans=0;
         for(auto q:queries){
-            int l=q[0];
-            int r=q[1];
-            long long req=get(r)-get(l-1);
+            long long req=get(q[1])-get(q[0]-1);
             ans+=(req+1)/2;
         }
         return ans;
