@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2752-sum-multiples](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2752-sum-multiples) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1610-xor-operation-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
