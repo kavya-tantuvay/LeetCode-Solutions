@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3790-fruits-into-baskets-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
