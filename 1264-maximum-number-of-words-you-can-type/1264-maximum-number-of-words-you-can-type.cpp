@@ -1,24 +1,20 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
-        int cnt=0;
-        int words=0;
-        int n=text.size();
+        vector<bool> broken(26, false);
+        for (char c : brokenLetters) broken[c - 'a'] = true;
 
-        for(int i=0;i<text.size();i++){
-            string word="";
-            int bad=0;
-            while(i<n && text[i]!=' '){
-                word+=text[i];
-                if(brokenLetters.find(text[i])!=string::npos){
-                    bad++;
-                }
-                i++;
+        int count = 0;
+        bool ok = true;
+
+        for (int i = 0; i <= text.size(); i++) {
+            if (i < text.size() && text[i] != ' ') {
+                if (broken[text[i] - 'a']) ok = false;
+            } else {
+                if (ok) count++;
+                ok = true;
             }
-            words++;
-            if(bad>0)cnt++;
         }
-        return words-cnt;
-
+        return count;
     }
 };
