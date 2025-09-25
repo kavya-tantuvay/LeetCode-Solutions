@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0867-new-21-game) |
