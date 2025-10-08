@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
