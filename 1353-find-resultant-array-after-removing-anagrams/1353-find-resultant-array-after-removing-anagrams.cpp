@@ -7,15 +7,21 @@ public:
     }
     vector<string> removeAnagrams(vector<string>& words) {
         vector<string> ans;
-        string prevKey = "";
-        for (const string &w : words) {
-            string key = w;          
-            sort(key.begin(), key.end());
-            if (ans.empty() || key != prevKey) {
-                ans.push_back(w);
-                prevKey = key;
+        int n=words.size();
+        int prev=0;
+        int cur=1;
+        ans.push_back(words[0]);
+        while(cur<n){
+            if(anagram(words[cur],words[prev])){
+                cur++;
+            }
+            else{
+                ans.push_back(words[cur]);
+                prev=cur;
+                cur++;
             }
         }
         return ans;
+
     }
 };
