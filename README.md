@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bitmask
