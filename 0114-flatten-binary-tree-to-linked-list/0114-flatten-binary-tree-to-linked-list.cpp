@@ -39,19 +39,17 @@ public:
         }
         return ans;
     }
-    void flatten(TreeNode* root) {
+    void helper(TreeNode*root,TreeNode*&prev){
         if(root==NULL)return;
-        if(root->left==NULL && root->right==NULL)return;
-        vector<int>pre=preo(root);
+        helper(root->right,prev);
+        helper(root->left,prev);
+        root->right=prev;
         root->left=NULL;
-        TreeNode*nroot=new TreeNode(pre[1]);
-        TreeNode*right=nroot;
-        for(int i=2;i<pre.size();i++){
-            TreeNode*node=new TreeNode(pre[i]);
-            nroot->right=node;
-            nroot=nroot->right; 
-        }
-        root->right=right;
-        
+        prev=root;
+    }
+    
+    void flatten(TreeNode* root) {
+        TreeNode*prev=NULL;
+        helper(root,prev);
     }
 };
