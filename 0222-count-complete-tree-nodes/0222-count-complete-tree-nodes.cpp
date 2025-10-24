@@ -11,23 +11,28 @@
  */
 class Solution {
 public:
-    vector<int>preo(TreeNode*root){
-        vector<int>ans;
-        if(root==NULL)return ans;
-        pre(root,ans);
-        return ans;
+    int findlh(TreeNode*node){
+        int ht=0;
+        while(node){
+            ht++;
+            node=node->left;
+        }
+        return ht;
     }
-    void pre(TreeNode*root,vector<int>&ans){
-        if(root==NULL)return;
-        ans.push_back(root->val);
-        pre(root->left,ans);
-        pre(root->right,ans);
+    int findrh(TreeNode*node){
+        int ht=0;
+        while(node){
+            ht++;
+            node=node->right;
+        }
+        return ht;
     }
     
     int countNodes(TreeNode* root) {
         if(!root)return 0;
-        vector<int>pre=preo(root);
-        int n=pre.size();
-        return n;
+        int lh=findlh(root);
+        int rh=findrh(root);
+        if(lh==rh)return (1<<lh)-1;
+        return 1+(countNodes(root->left)+countNodes(root->right));
     }
 };
