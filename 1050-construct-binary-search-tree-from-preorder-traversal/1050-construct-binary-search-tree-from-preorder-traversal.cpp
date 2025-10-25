@@ -12,16 +12,15 @@
 class Solution {
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int>inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        unordered_map<int,int>mpp;
-        int ie=inorder.size()-1;
-        int pe=ie;
-        for(int i=0;i<=ie;i++){
-            mpp[inorder[i]]=i;
-        }
-        TreeNode*root= bst(inorder,preorder,mpp,0,ie,0,pe);
-        return root;
+        int i=0;
+        return build(preorder,i,INT_MAX);
+    }
+    TreeNode*build(vector<int>&A,int &i,int bound){
+        if(i==A.size() || A[i]>bound)return NULL;
+        TreeNode*node=new TreeNode(A[i++]);
+        node->left=build(A,i,node->val);
+        node->right=build(A,i,bound);
+        return node;
     }
     TreeNode* bst(vector<int>&inorder,vector<int>&preorder,unordered_map<int,int>&mpp,int is,int ie,int ps,int pe){
         if(is>ie || ps>pe)return NULL;
