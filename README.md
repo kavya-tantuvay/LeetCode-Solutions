@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bitmask
 |  |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
