@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1006-vowel-spellchecker](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
