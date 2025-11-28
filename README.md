@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
