@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
