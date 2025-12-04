@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2211-count-collisions-on-a-road](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
