@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
