@@ -18,7 +18,7 @@ public:
             for(int i=0;i<4;i++){
                 int nr=r+drow[i];
                 int nc=c+dcol[i];
-                if(nr<n && nr>=0 && nc<m && nc>=0 && image[nr][nc]==same && vis[nr][nc]!=1){
+                if(nr<n && nr>=0 && nc<m && nc>=0 && image[nr][nc]==same && image[nr][nc]!=color){
                     vis[nr][nc]=1;
                     image[nr][nc]=color;
                     q.push({nr,nc});
