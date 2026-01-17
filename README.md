@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -897,5 +899,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
