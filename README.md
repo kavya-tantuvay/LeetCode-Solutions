@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
