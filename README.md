@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
