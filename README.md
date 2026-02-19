@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
