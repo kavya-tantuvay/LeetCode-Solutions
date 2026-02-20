@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
