@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1019,4 +1022,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
