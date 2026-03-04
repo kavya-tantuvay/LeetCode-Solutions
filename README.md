@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -907,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1022,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
