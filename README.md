@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Topological Sort
@@ -1055,11 +1057,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
