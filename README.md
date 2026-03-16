@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1829-maximum-units-on-a-truck](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -788,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
