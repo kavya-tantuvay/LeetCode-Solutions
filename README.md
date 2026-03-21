@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
