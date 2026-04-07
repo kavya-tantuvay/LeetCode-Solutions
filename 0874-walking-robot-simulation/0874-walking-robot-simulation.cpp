@@ -1,47 +1,61 @@
 class Solution {
 public:
+    int dist(int a,int b){
+        return a*a+b*b;
+    }
+
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        // Store obstacles for quick lookup
-        set<pair<int,int>> blocked;
-        for (auto &o : obstacles) {
-            blocked.insert({o[0], o[1]});
+        unordered_set<string> st;
+        for(auto &it : obstacles){
+            st.insert(to_string(it[0]) + "," + to_string(it[1]));
         }
-
-        // Directions: North, East, South, West
-        vector<pair<int,int>> directions = {
-            {0, 1}, {1, 0}, {0, -1}, {-1, 0}
-        };
-
-        int x = 0, y = 0;
-        int dir = 0; // start facing North
-        int maxDist = 0;
-
-        for (int cmd : commands) {
-            if (cmd == -1) {
-                // turn right
-                dir = (dir + 1) % 4;
-            } 
-            else if (cmd == -2) {
-                // turn left
-                dir = (dir + 3) % 4;
-            } 
-            else {
-                // move forward step by step
-                while (cmd--) {
-                    int nx = x + directions[dir].first;
-                    int ny = y + directions[dir].second;
-
-                    // stop if obstacle is ahead
-                    if (blocked.count({nx, ny})) break;
-
-                    x = nx;
-                    y = ny;
-
-                    maxDist = max(maxDist, x * x + y * y);
+       char cur='N';
+       int x=0,y=0;
+       unordered_map<char, unordered_map<int, char>> mpp;
+        mpp['N'][-1] = 'E';
+        mpp['E'][-1] = 'S';
+        mpp['S'][-1] = 'W';
+        mpp['W'][-1] = 'N';
+        mpp['N'][-2] = 'W';
+        mpp['W'][-2] = 'S';
+        mpp['S'][-2] = 'E';
+        mpp['E'][-2] = 'N';
+        int maxi=0;
+        for(int i:commands){
+            if(i==-1 || i==-2){
+                cur=mpp[cur][i];
+            }
+            else{
+                if(cur=='N'){
+                    for(int j=0;j<i;j++){
+                        if(st.count(to_string(x) + "," + to_string(y+1)))break;
+                        y++;
+                        maxi=max(maxi,dist(x,y));
+                    }
+                }
+                if(cur=='E'){
+                    for(int j=0;j<i;j++){
+                        if(st.count(to_string(x+1) + "," + to_string(y)))break;
+                        x++;
+                        maxi=max(maxi,dist(x,y));
+                    }
+                }
+                if(cur=='W'){
+                    for(int j=0;j<i;j++){
+                        if(st.count(to_string(x-1) + "," + to_string(y)))break;
+                        x--;
+                        maxi=max(maxi,dist(x,y));
+                    }
+                }
+                if(cur=='S'){
+                    for(int j=0;j<i;j++){
+                        if(st.count(to_string(x) + "," + to_string(y-1)))break;
+                        y--;
+                        maxi=max(maxi,dist(x,y));
+                    }
                 }
             }
         }
-
-        return maxDist;
+        return maxi;
     }
 };
