@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
