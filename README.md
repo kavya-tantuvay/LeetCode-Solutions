@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
