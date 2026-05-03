@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1270,5 +1271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
