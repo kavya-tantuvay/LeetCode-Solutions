@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1306-jump-game-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
