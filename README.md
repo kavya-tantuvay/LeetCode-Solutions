@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1092-shortest-common-supersequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1092-shortest-common-supersequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
