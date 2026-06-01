@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
