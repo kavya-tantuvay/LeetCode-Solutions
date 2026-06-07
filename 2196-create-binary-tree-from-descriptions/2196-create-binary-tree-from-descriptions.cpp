@@ -14,24 +14,27 @@ public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         int n=descriptions.size();
         unordered_map<int,TreeNode*>nodes;
+        set<int>st;
         nodes.reserve(n+1);
-        int root=0;
+        
         for(auto &d:descriptions){
             int p=d[0]; //parent
             int c=d[1]; //child
             int isl=d[2]; //is left
             if(!nodes.contains(p)){
                 nodes[p]=new TreeNode(p);
-                root^=p;
             }
             if(!nodes.contains(c)){
                 nodes[c]=new TreeNode(c);
-                root^=c;
             }
             if(isl)nodes[p]->left=nodes[c];
             else nodes[p]->right=nodes[c];
-            root^=c;
+            st.insert(c);
         }
-        return nodes[root];
+        TreeNode* root=new TreeNode(0);
+        for(auto it:nodes){
+            if(!st.contains(it.first))root=it.second;
+        }
+        return root;
     }
 };
