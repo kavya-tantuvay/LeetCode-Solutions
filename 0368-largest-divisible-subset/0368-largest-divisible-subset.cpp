@@ -27,7 +27,7 @@ public:
             lastind=hash[lastind];
             ans[ind++]=nums[lastind];
         }
-        reverse(ans.begin(),ans.end());
+        
         return ans;
     }
 };
