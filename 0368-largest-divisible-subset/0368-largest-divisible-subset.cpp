@@ -11,7 +11,7 @@ public:
         for(int i=0;i<n;i++){
             hash[i]=i;
             for(int prev=0;prev<i;prev++){
-                if((nums[prev]%nums[i]==0 || nums[i]%nums[prev]==0)&&(dp[i]<1+dp[prev])){
+                if(nums[i]%nums[prev]==0 && dp[i]<1+dp[prev]){
                     dp[i]=1+dp[prev];
                     hash[i]=prev;
                 }
