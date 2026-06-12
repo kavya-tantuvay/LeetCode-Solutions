@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1239,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Union Find
 |  |
@@ -1286,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
