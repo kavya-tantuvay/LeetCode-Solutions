@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1829-maximum-units-on-a-truck](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
