@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
