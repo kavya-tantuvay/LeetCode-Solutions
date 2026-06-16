@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3612-process-string-with-special-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
