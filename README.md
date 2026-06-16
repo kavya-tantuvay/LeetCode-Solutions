@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0312-burst-balloons) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1118,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
