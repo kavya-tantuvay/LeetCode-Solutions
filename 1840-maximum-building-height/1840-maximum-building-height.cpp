@@ -2,8 +2,8 @@ class Solution {
 public:
     int maxBuilding(int n, vector<vector<int>>& r) {
         r.push_back({1,0});
-        if(r.back()[0]!=n)r.push_back({n,n-1});
         sort(r.begin(),r.end());
+        if(r.back()[0]!=n)r.push_back({n,n-1});
         int m=r.size();
         //lr pass
         for(int i=1;i<m;i++){
