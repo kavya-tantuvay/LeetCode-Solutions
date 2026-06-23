@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
