@@ -1,0 +1,83 @@
+struct Node{
+    Node*links[2];
+    bool flag=false;
+    bool containskey(int bit){
+        return links[bit]!=NULL;
+    }
+    Node* getnode(int bit){
+        return links[bit];
+    }
+    void putnode(int bit,Node*node){
+        links[bit]=node;
+    }
+    bool isend(){
+        return flag==true;
+    }
+    void setend(){
+        flag=true;
+    }
+};
+class Trie{
+    private:
+    Node*root;
+    public:
+    Trie(){
+        root=new Node();
+    }
+    void insert(int num){
+        Node*node=root;
+        for(int i=31;i>=0;i--){
+            int bit=(num>>i)&1;
+            if(!node->containskey(bit)){
+                node->putnode(bit,new Node());
+            }
+            node=node->getnode(bit);
+        }
+    }
+    int getmax(int num){
+        Node*node=root;
+        int maxi=0;
+        for(int i=31;i>=0;i--){
+            int bit=(num>>i)&1;
+            if(node->containskey(1-bit)){
+                maxi=maxi|(1<<i);
+                node=node->getnode(1-bit);
+            }
+            else{
+                node=node->getnode(bit);
+            }
+
+        }
+        return maxi;
+    }
+};
+class Solution {
+public:
+    vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& q) {
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        vector<int>ans(q.size(),0);
+        vector<pair<int,pair<int,int>>>offq;
+        
+        for(int i=0;i<q.size();i++){
+            int x=q[i][0];
+            int m=q[i][1];
+            offq.push_back({m,{x,i}});
+        }
+        sort(offq.begin(),offq.end());
+        Trie trie;
+        int ind=0;
+        for(int i=0;i<q.size();i++){
+            int m=offq[i].first;
+            int x=offq[i].second.first;
+            int qi=offq[i].second.second;
+            while(ind<n && nums[ind]<=m){
+                trie.insert(nums[ind]);
+                ind++;
+            }
+            if(ind==0)ans[qi]=-1;
+            else ans[qi]=trie.getmax(x);
+        }
+        return ans;
+    }
+};
