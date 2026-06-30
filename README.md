@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
