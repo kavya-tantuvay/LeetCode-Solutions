@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3678-design-task-manager](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
@@ -1475,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1482,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1492,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
 | ------- |
