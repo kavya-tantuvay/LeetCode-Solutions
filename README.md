@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1301-number-of-paths-with-max-score](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
