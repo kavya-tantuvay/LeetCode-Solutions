@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
