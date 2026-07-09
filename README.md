@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
