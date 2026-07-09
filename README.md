@@ -1208,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
