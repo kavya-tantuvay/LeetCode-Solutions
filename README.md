@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
