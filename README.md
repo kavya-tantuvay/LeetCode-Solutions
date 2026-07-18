@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
