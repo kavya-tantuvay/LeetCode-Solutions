@@ -5,7 +5,7 @@ public:
         if(n<=2)return n;
         int ans=2;
         while(ans<=n){
-            ans*=2;
+            ans<<=1;
         }
         return ans;
     }
