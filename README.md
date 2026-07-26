@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0826-soup-servings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
