@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1829-maximum-units-on-a-truck](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
