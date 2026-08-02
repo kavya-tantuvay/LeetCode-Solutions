@@ -8,11 +8,12 @@ public:
         return dp[l][r]=max(left,right);
     }
     bool stoneGame(vector<int>& piles) {
-        int s=0;
-        int n=piles.size();
-        vector<vector<int>>dp(n,vector<int>(n,-1));
-        for(int i:piles)s+=i;
-        int a=f(0,n-1,piles,dp);
-        return a>s-a;
+        // int s=0;
+        // int n=piles.size();
+        // vector<vector<int>>dp(n,vector<int>(n,-1));
+        // for(int i:piles)s+=i;
+        // int a=f(0,n-1,piles,dp);
+        // return a>s-a;
+        return true;
     }
 };
