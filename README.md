@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -1213,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
