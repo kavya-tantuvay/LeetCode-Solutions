@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
