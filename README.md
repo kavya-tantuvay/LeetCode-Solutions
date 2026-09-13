@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
