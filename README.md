@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0679-24-game) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1228,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -1562,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kavya-tantuvay/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
